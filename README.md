@@ -20,6 +20,6 @@
 The project is hosted online, and you can view it at the following link:
 [https://spotifybyj.freewebhostmost.com/]
 # Future Enhancements
-  Adding a full-featured playlist manager.
-  Integrating a real music API for fetching tracks.
-  Implementing user authentication and profile management.
+  1. Adding a full-featured playlist manager.
+  2. Integrating a real music API for fetching tracks.
+  3. Implementing user authentication and profile management.
