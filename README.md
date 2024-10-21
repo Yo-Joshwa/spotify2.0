@@ -1,4 +1,4 @@
-# spotify2.0
+# Spotify2.0
 # Project Overview
   This project is a simple Spotify clone built using HTML, CSS, and JavaScript. It replicates the basic design and functionality of the Spotify web player, allowing users to interact with    a music player interface. Users can play, pause, and skip songs, as well as see details like the track name, artist, and album art.
 
