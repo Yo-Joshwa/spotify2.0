@@ -1,4 +1,4 @@
-<img width="1457" alt="Screenshot 2024-10-22 at 1 15 29 AM" src="https://github.com/user-attachments/assets/3497eac7-1563-46da-a5dc-7ad18b69ee1e"># Spotify2.0
+# Spotify2.0
 # Project Overview
   This project is a simple Spotify clone built using HTML, CSS, and JavaScript. It replicates the basic design and functionality of the Spotify web player, allowing users to interact with    a music player interface. Users can play, pause, and skip songs, as well as see details like the track name, artist, and album art.
 
@@ -9,9 +9,9 @@
   4. Playlist: Basic playlist functionality that allows users to see the list of tracks and select the song to play.
 
 # Tech Stack
-  #HTML: For creating the structure of the app.
-  #CSS: For styling the user interface and making it responsive.
-  #JavaScript: For adding interactivity, such as music controls and dynamic updates.
+  1. HTML: For creating the structure of the app.
+  2. CSS: For styling the user interface and making it responsive.
+  3. JavaScript: For adding interactivity, such as music controls and dynamic updates.
   
 # Screenshots:
   <img width="1457" alt="Screenshot 2024-10-22 at 1 15 29 AM" src="https://github.com/user-attachments/assets/05731557-3673-42e7-9c3c-625137c9dc92">
